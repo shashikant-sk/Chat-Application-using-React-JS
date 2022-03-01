@@ -12,5 +12,5 @@ React JS is the programming language of choice, and Chat Engine is a set of APIs
 
 Its a good example of learning react and creating something production ready!
 
-## Want to build this too?
+
 
